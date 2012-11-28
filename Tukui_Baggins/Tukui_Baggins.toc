@@ -1,0 +1,10 @@
+## Interface: 50001
+## Version: 0.1
+## Author: SinaC
+## Title: |cffC495DDTukui|r Baggins Skin
+## Credits: Nargiddley
+## Notes: Baggins skin for Tukui
+## URL: https://github.com/SinaC/Tukui_Baggins
+## RequiredDeps: Baggins, Tukui
+
+Tukui_Baggins.lua
